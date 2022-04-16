@@ -1,3 +1,4 @@
 this a new file from github.com
 and edit this.
 and edit again from github.com
+&& edit this again from local repo
